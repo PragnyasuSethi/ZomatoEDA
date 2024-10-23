@@ -12,8 +12,8 @@ Analyze correlations (e.g., correlation matrix for features like price, rating)
 Use heatmaps to visualize these correlations
 
 ## Tools
-Python libraries like -:
-Pandas
-Matplotlib
-Seaborn
-NumPy for analysis and visualization.
+* Python libraries like -:
+* Pandas
+* Matplotlib
+* Seaborn
+* NumPy for analysis and visualization.
