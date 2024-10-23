@@ -1,4 +1,5 @@
 # ZomatoEDA
+I embarked on my data analysis journey some time ago, and the Zomato dataset was one of the foundational projects that helped me dive deeper into this field. This dataset not only introduced me to key concepts like data cleaning and visualization but also fueled my passion for uncovering actionable insights from raw data. It’s a significant milestone in my learning path, setting the stage for more complex projects ahead.
 ## Roadmap
 1. Understanding the Dataset
 Familiarize yourself with columns (e.g., restaurant names, cuisines, ratings, prices)
